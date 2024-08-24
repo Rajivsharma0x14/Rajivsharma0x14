@@ -1,6 +1,10 @@
-## :dizzy: About Me:
-:telescope: Hacker | Penetration Tester | Security Researcher<be>
-:zap: Founder @nebulasafetech<br>
+## 📌 About Me:
+
+- Hacker | Penetration-Tester | 10+ Cyber Talks | Cyber-Crime Public Advisor
+
+- Founder [NebulaSafetech](https://rajivsharma0x14.github.io/NebulaSafeTech.com/)
+
+- Hacked @google @microsoft @cloudflare @p2ptask @ferrari @kickstarter @kfc
 
 ## :computer: Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.learn-cpp.org/)  
